@@ -1,0 +1,10 @@
+
+Start-Date: 2025-12-18  14:40:32
+Commandline: apt install -y ca-certificates
+Install: ca-certificates:amd64 (20250419), openssl:amd64 (3.5.4-1~deb13u1, automatic)
+End-Date: 2025-12-18  14:40:36
+
+Start-Date: 2025-12-18  14:40:57
+Commandline: apt install -y linux-image-rt-amd64 grub-efi-amd64 os-prober
+Install: initramfs-tools-core:amd64 (0.148.3, automatic), mokutil:amd64 (0.7.2-1, automatic), zstd:amd64 (1.5.7+dfsg-1, automatic), linux-image-6.12.57+deb13-rt-amd64:amd64 (6.12.57-1, automatic), busybox:amd64 (1:1.37.0-6+b3, automatic), ucf:amd64 (3.0052, automatic), initramfs-tools-bin:amd64 (0.148.3, automatic), apparmor:amd64 (4.1.0-1, automatic), os-prober:amd64 (1.83), libfreetype6:amd64 (2.13.3+dfsg-1, automatic), dracut-install:amd64 (106-6, automatic), grub-efi-amd64-unsigned:amd64 (2.12-9, automatic), libefivar1t64:amd64 (38-3.1+b1, automatic), gettext-base:amd64 (0.23.1-2, automatic), grub-efi-amd64:amd64 (2.12-9), libfuse3-4:amd64 (3.17.2-3, automatic), klibc-utils:amd64 (2.0.14-1, automatic), linux-base:amd64 (4.12, automatic), libefiboot1t64:amd64 (38-3.1+b1, automatic), shim-helpers-amd64-signed:amd64 (1+15.8+1, automatic), libklibc:amd64 (2.0.14-1, automatic), grub-efi-amd64-signed:amd64 (1+2.12+9, automatic), dmsetup:amd64 (2:1.02.205-2, automatic), grub-efi-amd64-bin:amd64 (2.12-9, automatic), grub2-common:amd64 (2.12-9, automatic), linux-image-rt-amd64:amd64 (6.12.57-1), libbrotli1:amd64 (1.1.0-2+b7, automatic), grub-common:amd64 (2.12-9, automatic), efibootmgr:amd64 (18-2, automatic), initramfs-tools:amd64 (0.148.3, automatic), libpng16-16t64:amd64 (1.6.48-1, automatic), shim-signed:amd64 (1.47+15.8-1, automatic), libdevmapper1.02.1:amd64 (2:1.02.205-2, automatic), shim-signed-common:amd64 (1.47+15.8-1, automatic), shim-unsigned:amd64 (15.8-1, automatic)
+End-Date: 2025-12-18  14:41:49

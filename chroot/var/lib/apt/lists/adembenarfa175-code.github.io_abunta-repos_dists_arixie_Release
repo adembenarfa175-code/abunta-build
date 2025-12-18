@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Abunta Project
+Label: Abunta Local Repository
+Suite: trixie
+Codename: arixie
+Version: 1.0
+Date: Wed, 17 Dec 2025 19:42:07 UTC
+Architectures: amd64
+Components: main
+Description: Local APT repository for Abunta build system
+MD5Sum:
+ 8805323cb6ec78052d939b4c20db1cd4 176712 main/binary-amd64/Packages
+ a7902d1858964885dc3fed92748b8a4c 59253 main/binary-amd64/Packages.gz
+ f8b59178eefe5dd3f51574379899addd 177 main/binary-amd64/Release
+SHA1:
+ 8efda9f4f6f3f04a4c379daaaf210aec80040b96 176712 main/binary-amd64/Packages
+ 153a0a105db39f3a9c7a386e0cc562c56cc77a78 59253 main/binary-amd64/Packages.gz
+ 2e316b4ba2ce7e889155ef272298567e3e9f5845 177 main/binary-amd64/Release
+SHA256:
+ 30ca60324bbe7ce35ebdc8328ef592e45ec14f53c81ed2a0b3d1abcfe2d38e20 176712 main/binary-amd64/Packages
+ a5b45a24536479c1759089464f585d1de3c0cdf44308546a8b61308d76162283 59253 main/binary-amd64/Packages.gz
+ e959dcb92dd489e6cd1e324a23f0363907b9d326a0f9ff3320c6b5a9cd67d0e8 177 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEK/u+QhkSgeoCW4oj3Vux5EBAuQ8FAmlDB5QACgkQ3Vux5EBA
+uQ8aaRAAqZ3IJ9dQTFMK6UQT6qXjkGqADy30N0krJrjUqiepNZbYUNCnPmet4JAB
+5PONoZnl0iuHttHaVarMmGTeCLAu0JF7JzfUUo8na4dJM4Jxm9ltzp8c56AlJU+r
+CrxGlFDT3Yq2JBRwLhxle3eA/8YsDPr1zIoqPoK26SWpUEhatFiSdF6GAPA99bmM
+yFO8paUkZwWzfX9KMbW7Ze4661rYH/M/MCpQ8VuaQ2y00/yOQGGZUOH/ARaEcf4e
+2yjRk3XWHOnzIoYcXZzVB/0LP3vLv6k2ZaUYsKvo3CHshj0cvH1xCYgO9aFocEPi
+NidiDT0xhni10xgc31lkYHhVVZbua56/NqxtyfHiJdYFkX+xgYXpfY+AOQBIjPFr
+IGB4RZmlcyPYM7pIixEUTQQxDRZLg+EvqfiLdGfSkc1OlBMiSXEqB61jvHP8vQoM
+mP2QWJxvVd5c9ZWSTpobGOKfeynipTi4aqc4O4GyX8iN+VDH3uM0w/2uD8Hte5I8
+U65rrfKYJDAw+fnzreZ21GeF6xEB7cCGbuQPXoVxMXY9QQ7+6KSqDbIRwpofPDDC
+5kJFJLbRTkcjeQE6DW/OzlB/UnwdcQR9mQyZpttKqeChP/Ca+cFoySrqrpP/Zbqs
+X5JzTsBhPmH9GF1krfsu96TTkGcyI0DsXFg5gn4SL4qc/3FFJXY=
+=Ykk+
+-----END PGP SIGNATURE-----
